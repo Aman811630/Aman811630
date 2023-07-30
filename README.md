@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aman811630
 - 👀 I’m interested in Python programing and Data Science and Machine Learning / A.I
-- 🌱 I’m currently learning Python and Data Science.
+- 🌱 I’m currently learning Python and various Ml algorithim.
 - 💞️ I’m looking to collaborate on Python and Data Science projects.
 - 📫 To reach mail me.
 
