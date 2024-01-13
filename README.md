@@ -8,7 +8,8 @@
 Aman811630/Aman811630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Data Analyst](https://user-images.githubusercontent.com/113992933/226823211-f9b92066-db44-4410-98fd-7a39a2b1c141.png)
+![Data Science]![data science](https://github.com/Aman811630/Aman811630/assets/100797749/7c81a306-35e3-485d-8bf3-d98fb51d3c57)
+
 
 
 print("Welcome to my Github Profile")
