@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aman811630
+# 👋 Hi, I’m Aman Singh
 - 👀 I’m interested in Python programing and Data Science and Machine Learning / A.I
 - 🌱 I’m currently learning Python and various Ml algorithim.
 - 💞️ I’m looking to collaborate on Python and Data Science projects.
@@ -37,7 +37,7 @@ Creating interactive reports with Power BI is an activity that brings me great p
 
 → Data analysis
 
-→ Business analysis
+→ Data Science
 
 <p align="center">
   <img width="580" height="400" src="https://user-images.githubusercontent.com/113992933/226905601-f534bb6a-9b0e-4b4b-beb2-85f2cbe9d41a.png">
