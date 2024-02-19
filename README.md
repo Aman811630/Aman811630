@@ -16,7 +16,7 @@ print("Welcome to my Github Profile")
 # Welcome to my Github Profile
 
 <img align="right" width="250" height="200" src="https://gifdb.com/images/file/welcome-greeting-1y2timm763pcwtl2.gif">
-With a wealth of 1.8 years in the engaging field of industrial consulting, I possess a solid foundation in dash-boarding, analytics and DAX Query. My proficiency in  utilizing BI tools such as Power BI and Tableau allows me to craft visually striking dashboards and uncover valuable insights from data to meet the specific needs of the business.
+With a wealth of 3 + years in the engaging field of industrial consulting, I possess a solid foundation in dash-boarding, analytics and DAX Query. My proficiency in  utilizing BI tools such as Power BI and Tableau allows me to craft visually striking dashboards and uncover valuable insights from data to meet the specific needs of the business.
 
 I am passionate about crafting compelling visualizations from intricate data sets, the process of which energizes and invigorates me. Adept in utilizing Python for data cleaning and exploratory data analysis, I am highly efficient in this approach.
 
